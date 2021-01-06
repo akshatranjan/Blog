@@ -73,3 +73,38 @@ input
 {
     margin-top: 10px;
 }
+
+.header_entre
+{
+    line-height: 2;
+}
+
+.book
+{
+    cursor: pointer;
+}
+
+.book hr
+{
+    margin-bottom: 10px;
+}
+
+.modal_content
+{
+    margin-top: 100px;
+}
+
+.img_modal
+{
+    display: inline-block;
+}
+
+.p_modal
+{
+    margin-top: 10px;
+}
+
+.modal_body
+{
+    text-align: center;
+}
